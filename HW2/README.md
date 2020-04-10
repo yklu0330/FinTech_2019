@@ -1,6 +1,6 @@
 ## Profit Optimization for SPY Trading
-
-- Design trading strategies such that the total return of 4 stocks over a given period of time can be maximized
+- [Homework website](http://mirlab.org/jang/courses/fintech/homework/2019/profitOptimize/?count=2&dueDate=20191020%2023:59:59)
+- Design trading strategies such that the total return of 4 stocks over a given period of time can be maximized  
 
 ### My strategy
 1. Technical indicator used: RSI  
