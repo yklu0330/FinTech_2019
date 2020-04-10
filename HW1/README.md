@@ -1,0 +1,10 @@
+## OHLC Extraction
+
+- Compute the OHLC (open, high, low, close) prices of 台指期 within a given date based on minute-based trading record
+#### Input file
+- A csv file recording minute-based trading data, which can be download from [前30個交易日期貨每筆成交資料](https://https://www.taifex.com.tw/cht/3/dlFutPrevious30DaysSalesData)
+#### How to run
+``python ohlcExtract.py input.csv``
+#### Output format
+- The vector of OHLC in a line
+<img src="https://i.imgur.com/lvvp29l.jpg" width=40%>
