@@ -5,7 +5,7 @@
 - Moving Average (MA)
 - RSI  
 
-More detail can be seen in my report.
+More details can be seen in my report.
 #### Input file: [台指期](https://www.taifex.com.tw/cht/3/dlFutPrevious30DaysSalesData)
 #### How to run:
 ``python projectEval.py TX_daily.csv TX_minutely.csv``
